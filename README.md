@@ -1,2 +1,2 @@
 # PiCollisions
-Simple demonstration of the 'collisions method' for calculating digits of pi. (Inspired by 3Blue1Brown)
+Simple demonstration of the 'collisions method' for calculating digits of pi. Inspired by 3Blue1Brown.
